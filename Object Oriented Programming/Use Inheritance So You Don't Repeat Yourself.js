@@ -35,7 +35,7 @@ constructor : DOg
 };
 */
 /******** The eat method is repeated in both Cat and Bear.
-Edit the code inEdit the code in the spirit of DRY by moving the eat method to the Animal supertype.
+Edit the code inEdit the code in the spirit of DRY by moving the eat method to the Animal supertype.  ********/
 function Cat(name) {
   this.name = name; 
 }
